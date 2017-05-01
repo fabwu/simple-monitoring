@@ -1,6 +1,8 @@
 .Node {
+    float: left;
     width: 25%;
     border: 1px solid #222;
     padding: 15px 30px;
     background-color: #32cd32;
+    margin: 15px 15px 15px 0;
 }

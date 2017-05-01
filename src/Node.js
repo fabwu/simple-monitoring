@@ -5,7 +5,7 @@ class Node extends Component {
     render() {
         return (
             <div className="Node">
-                <h3>Backend</h3>
+                <h3>{this.props.node.name}</h3>
             </div>
         );
     }
