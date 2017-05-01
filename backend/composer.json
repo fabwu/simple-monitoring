@@ -1,0 +1,7 @@
+{
+  "name": "wuethrich44/simple-monitoring",
+  "type": "project",
+  "require": {
+    "slim/slim": "^3.8"
+  }
+}
